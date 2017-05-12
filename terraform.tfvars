@@ -1,0 +1,5 @@
+region = "ap-southeast-2"
+ami = "ami-db704cb8"
+instance_name = "WebTest"
+bucket_name = "terraform-dc0"
+s3_key = "base-vpc/tfstate/dc0/terraform.tfstate"
